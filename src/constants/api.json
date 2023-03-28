@@ -1,0 +1,18 @@
+{
+    "registerCustomer":"http://localhost:9000/customer/add",
+    "registerAdmin":"http://localhost:9000/appuser/register",
+    "login":"http://localhost:9000/appuser/login",
+    "addOffice":"http://localhost:9000/office/add-office",
+    "getAllOffices":"http://localhost:9000/office/get-all-offices",
+    "deleteOffice":"http://localhost:9000/office/remove-office",
+    "addStaff":"http://localhost:9000/staffmember/add-staffmember",
+    "deleteStaff":"http://localhost:9000/staffmember/remove-staffmember",
+    "getAllStaff":"http://localhost:9000/staffmember/get-all-staffmembers",
+    "addCourier":"http://localhost:9000/courier/add",
+    "linkCustCourier":"http://localhost:9000/customer/addCourier",
+    "addComplaint":"http://localhost:9000/complaint/add-complaint",
+    "linkCustComplaint":"http://localhost:9000/customer/addComplaint",
+    "getAllCouriers":"http://localhost:9000/courier/all",
+    "updateCourier":"http://localhost:9000/courier/update",
+    "getCustomer":"http://localhost:9000/customer"
+}
